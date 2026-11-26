@@ -2,6 +2,7 @@
 
 ## Description
 
+- Author:芝士大嘴蛙（DDDDWWWWDZW）
 -This mod adds the M8 Thunderbolt tank to GHPC. You can test it on the range, or select it via custom vehicles on other maps. It is available for both tank and IFV missions. The model is sourced from War Thunder and retopologized by me. All mod features are implemented by myself. This is a personal fan mod and is not affiliated with any game developers.
 - 一个 XM8「Thunderbolt」轻坦模组：120mm XM291 火炮、 可选的L3级别附加复合装甲，自动装弹机和抛壳动画、M1A2级别的火控，以及专属M8的内构与损伤模型。
 
