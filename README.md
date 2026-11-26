@@ -2,21 +2,14 @@
 
 ## Description
 
-- This mod adds the **XM8 Buford** (M8 Armored Gun System) light tank to GHPC as a brand-new vehicle, not a replacement of any vanilla unit. One unit spawns automatically on the shooting range map; on other maps it is available through the custom vehicle menu.
-- The exterior model is retopologized and re-segmented from the War Thunder XM8, the running gear is built from scratch (own wheels, suspension arms, sprockets and skinned tracks), and the interior is an original X-ray model.
-- 一个 XM8「Buford」轻坦模组：自建履带行走装置、120mm XM291 火炮、109 块 L3 附加复合装甲，以及可剖视的内构与损伤模型。
+-This mod adds the M8 Thunderbolt tank to GHPC. You can test it on the range, or select it via custom vehicles on other maps. It is available for both tank and IFV missions. The model is sourced from War Thunder and retopologized by me. All mod features are implemented by myself. This is a personal fan mod and is not affiliated with any game developers.
+- 一个 XM8「Thunderbolt」轻坦模组：120mm XM291 火炮、 可选的L3级别附加复合装甲，自动装弹机和抛壳动画、M1A2级别的火控，以及专属M8的内构与损伤模型。
 
-## Download
 
-Use the release asset:
-
-```text
-XM8-1.0.0-official.zip
-```
 
 ## Requirements
 
-- **MelonLoader 0.7.x (net472)** for Gunner HEAT PC
+- **MelonLoader 0.7.x+ (net472)** for Gunner HEAT PC
 - Gunner HEAT PC (current Steam build)
 
 ## Install
@@ -32,8 +25,8 @@ XM8-1.0.0-official.zip
 
 ## Contents
 
-- Brand-new vehicle `XM8 Buford`, registered as its own unit (does not replace the T-80B)
-- XM291 120 mm gun with the M1A2C ammunition set: M829E2 / M829E3 / M829E4 APFSDS, M830 / M830A1 HEAT
+- Brand-new vehicle `XM8 Thunderbolt`, registered as its own unit
+- XM291 120 mm gun with the M1A2C ammunition set: M829E2 / M829E3 / M829E4 APFSDS, M830A1 HEAT
 - 30-round loadout (15 AP + 6 HEAT in the autoloader, 6 AP + 3 HEAT in the hull rack), automatic loader cycle
 - Original running gear: 6 road wheels per side, drive sprocket, idler, swing arms and skinned tracks
 - External **Level III composite add-on armour**: 109 individually armoured plates, each with its own KE/CE RHAe, correct hull/turret/gun attachment (the gun plates elevate with the barrel) and semi-transparent AAR/X-ray visuals
@@ -42,9 +35,11 @@ XM8-1.0.0-official.zip
 - Interior damage model: engine, transmission, traverse/elevation drives, XM291 breech and barrel, autoloader, gunner and commander sights, machine guns, fuel tanks with flammability, interior bulkheads
 - Reworked olive green base paint (unified tone, preserved panel detail, darkened running gear rubber)
 - Tuned handling and weapon drives: 580 hp at 2400 rpm, 21.0 t bare / 25.8 t with the L3 kit, 72 km/h forward, 27 km/h reverse
-- Turret traverse 40°/s, gun elevation 14°/s, elevation limits −8° to +20°
+- Turret traverse 40°/s, gun elevation 24°/s, elevation limits −8° to +20°
 - Third-person camera centred on the XM8 model, commander view on the cupola hatch, co-axial machine gun muzzle aligned to the model and elevating with the gun
-- IPM1-style crew postures for gunner and commander
+<img width="1494" height="908" alt="87a47a40116630ca48e99f6577b3daba" src="https://github.com/user-attachments/assets/6874f99b-7e60-435a-b500-c69d3bf63c22" />
+<img width="1469" height="868" alt="03ce68b60f2ab06bb563203a35146679" src="https://github.com/user-attachments/assets/0856621d-c31b-416c-b73a-a73e4357cba2" />
+
 
 ## Relevant entries
 
@@ -59,8 +54,7 @@ Preferences are written to `<GHPC install>\Bin\UserData\MelonPreferences.cfg` on
 
 ## Notes
 
-- The exterior model is derived from the War Thunder XM8; I performed the retopology and re-segmentation so it works as an in-game vehicle. All rights reserved. Redistribution, modification and commercial use are not permitted without written permission.
+- The exterior model is derived from the War Thunder XM8; I performed the retopology and re-segmentation so it works as an in-game vehicle. Redistribution, modification and commercial use are not permitted without written permission.The copyright of the original 3D model belongs to Gaijin Entertainment (Gaijin Network Ltd).
 - This is a compiled distribution; modify/redistribute only with permission.
 - If you wish to modify and release your own version based on this mod, please notify me.
 - This mod was created with the assistance of AI.
-- Special thanks to the GHPC modding community for the tooling and reference material.
