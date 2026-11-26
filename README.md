@@ -1,4 +1,4 @@
-# XM8 Buford for Gunner HEAT PC
+# XM8 Thunderbolt for Gunner HEAT PC
 
 ## Description
 
