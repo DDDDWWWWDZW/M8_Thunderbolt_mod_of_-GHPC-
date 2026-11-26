@@ -1,0 +1,10 @@
+﻿dist/
+*.zip
+*.log
+*.blend
+src/
+tools/
+docs/
+work/
+textures/
+assets/
